@@ -1,0 +1,362 @@
+[
+ {
+  "merchant_id": "M0001",
+  "name": "Global Pay 1",
+  "category": "fuel",
+  "risk_score": 15,
+  "chargeback_rate": 0.002,
+  "age_days": 776,
+  "tier": "low"
+ },
+ {
+  "merchant_id": "M0002",
+  "name": "Royal Exports 2",
+  "category": "travel",
+  "risk_score": 21,
+  "chargeback_rate": 0.002,
+  "age_days": 1885,
+  "tier": "low"
+ },
+ {
+  "merchant_id": "M0003",
+  "name": "Sri Pay 3",
+  "category": "dining",
+  "risk_score": 22,
+  "chargeback_rate": 0.002,
+  "age_days": 1060,
+  "tier": "low"
+ },
+ {
+  "merchant_id": "M0004",
+  "name": "New Stores 4",
+  "category": "travel",
+  "risk_score": 19,
+  "chargeback_rate": 0.002,
+  "age_days": 1970,
+  "tier": "low"
+ },
+ {
+  "merchant_id": "M0005",
+  "name": "Royal Traders 5",
+  "category": "fuel",
+  "risk_score": 19,
+  "chargeback_rate": 0.002,
+  "age_days": 2788,
+  "tier": "low"
+ },
+ {
+  "merchant_id": "M0006",
+  "name": "Royal Pay 6",
+  "category": "dining",
+  "risk_score": 10,
+  "chargeback_rate": 0.002,
+  "age_days": 1748,
+  "tier": "low"
+ },
+ {
+  "merchant_id": "M0007",
+  "name": "Metro Traders 7",
+  "category": "fuel",
+  "risk_score": 8,
+  "chargeback_rate": 0.002,
+  "age_days": 3790,
+  "tier": "low"
+ },
+ {
+  "merchant_id": "M0008",
+  "name": "Metro Hub 8",
+  "category": "electronics",
+  "risk_score": 13,
+  "chargeback_rate": 0.002,
+  "age_days": 979,
+  "tier": "low"
+ },
+ {
+  "merchant_id": "M0009",
+  "name": "Global Pay 9",
+  "category": "pharmacy",
+  "risk_score": 21,
+  "chargeback_rate": 0.002,
+  "age_days": 2778,
+  "tier": "low"
+ },
+ {
+  "merchant_id": "M0010",
+  "name": "City Stores 10",
+  "category": "grocery",
+  "risk_score": 4,
+  "chargeback_rate": 0.002,
+  "age_days": 1014,
+  "tier": "low"
+ },
+ {
+  "merchant_id": "M0011",
+  "name": "Metro Exports 11",
+  "category": "travel",
+  "risk_score": 17,
+  "chargeback_rate": 0.002,
+  "age_days": 3943,
+  "tier": "low"
+ },
+ {
+  "merchant_id": "M0012",
+  "name": "Metro Hub 12",
+  "category": "utilities",
+  "risk_score": 13,
+  "chargeback_rate": 0.002,
+  "age_days": 1317,
+  "tier": "low"
+ },
+ {
+  "merchant_id": "M0013",
+  "name": "Sri Pay 13",
+  "category": "fuel",
+  "risk_score": 19,
+  "chargeback_rate": 0.002,
+  "age_days": 1714,
+  "tier": "low"
+ },
+ {
+  "merchant_id": "M0014",
+  "name": "Metro Exports 14",
+  "category": "dining",
+  "risk_score": 14,
+  "chargeback_rate": 0.002,
+  "age_days": 2286,
+  "tier": "low"
+ },
+ {
+  "merchant_id": "M0015",
+  "name": "Royal Hub 15",
+  "category": "grocery",
+  "risk_score": 13,
+  "chargeback_rate": 0.002,
+  "age_days": 1087,
+  "tier": "low"
+ },
+ {
+  "merchant_id": "M0016",
+  "name": "Royal Hub 16",
+  "category": "dining",
+  "risk_score": 13,
+  "chargeback_rate": 0.002,
+  "age_days": 3418,
+  "tier": "low"
+ },
+ {
+  "merchant_id": "M0017",
+  "name": "Royal Hub 17",
+  "category": "travel",
+  "risk_score": 7,
+  "chargeback_rate": 0.002,
+  "age_days": 2989,
+  "tier": "low"
+ },
+ {
+  "merchant_id": "M0018",
+  "name": "Royal Traders 18",
+  "category": "fuel",
+  "risk_score": 16,
+  "chargeback_rate": 0.002,
+  "age_days": 774,
+  "tier": "low"
+ },
+ {
+  "merchant_id": "M0019",
+  "name": "New Traders 19",
+  "category": "electronics",
+  "risk_score": 18,
+  "chargeback_rate": 0.002,
+  "age_days": 1263,
+  "tier": "low"
+ },
+ {
+  "merchant_id": "M0020",
+  "name": "Royal Mart 20",
+  "category": "grocery",
+  "risk_score": 13,
+  "chargeback_rate": 0.002,
+  "age_days": 2243,
+  "tier": "low"
+ },
+ {
+  "merchant_id": "M0021",
+  "name": "New Hub 21",
+  "category": "dining",
+  "risk_score": 17,
+  "chargeback_rate": 0.002,
+  "age_days": 2192,
+  "tier": "low"
+ },
+ {
+  "merchant_id": "M0022",
+  "name": "Metro Pay 22",
+  "category": "fashion",
+  "risk_score": 10,
+  "chargeback_rate": 0.002,
+  "age_days": 1967,
+  "tier": "low"
+ },
+ {
+  "merchant_id": "M0023",
+  "name": "Royal Hub 23",
+  "category": "fashion",
+  "risk_score": 17,
+  "chargeback_rate": 0.002,
+  "age_days": 2759,
+  "tier": "low"
+ },
+ {
+  "merchant_id": "M0024",
+  "name": "New Traders 24",
+  "category": "dining",
+  "risk_score": 11,
+  "chargeback_rate": 0.002,
+  "age_days": 2220,
+  "tier": "low"
+ },
+ {
+  "merchant_id": "M0025",
+  "name": "Metro Mart 25",
+  "category": "pharmacy",
+  "risk_score": 5,
+  "chargeback_rate": 0.002,
+  "age_days": 2540,
+  "tier": "low"
+ },
+ {
+  "merchant_id": "M0026",
+  "name": "City Mart 26",
+  "category": "utilities",
+  "risk_score": 17,
+  "chargeback_rate": 0.002,
+  "age_days": 2399,
+  "tier": "low"
+ },
+ {
+  "merchant_id": "M0027",
+  "name": "Metro Pay 27",
+  "category": "utilities",
+  "risk_score": 15,
+  "chargeback_rate": 0.002,
+  "age_days": 1619,
+  "tier": "low"
+ },
+ {
+  "merchant_id": "M0028",
+  "name": "Sri Hub 28",
+  "category": "electronics",
+  "risk_score": 7,
+  "chargeback_rate": 0.002,
+  "age_days": 1875,
+  "tier": "low"
+ },
+ {
+  "merchant_id": "M0029",
+  "name": "New Hub 29",
+  "category": "fashion",
+  "risk_score": 42,
+  "chargeback_rate": 0.02,
+  "age_days": 251,
+  "tier": "medium"
+ },
+ {
+  "merchant_id": "M0030",
+  "name": "New Exports 30",
+  "category": "travel",
+  "risk_score": 51,
+  "chargeback_rate": 0.02,
+  "age_days": 182,
+  "tier": "medium"
+ },
+ {
+  "merchant_id": "M0031",
+  "name": "New Stores 31",
+  "category": "fashion",
+  "risk_score": 45,
+  "chargeback_rate": 0.02,
+  "age_days": 394,
+  "tier": "medium"
+ },
+ {
+  "merchant_id": "M0032",
+  "name": "Global Exports 32",
+  "category": "utilities",
+  "risk_score": 51,
+  "chargeback_rate": 0.02,
+  "age_days": 300,
+  "tier": "medium"
+ },
+ {
+  "merchant_id": "M0033",
+  "name": "Metro Stores 33",
+  "category": "dining",
+  "risk_score": 58,
+  "chargeback_rate": 0.02,
+  "age_days": 389,
+  "tier": "medium"
+ },
+ {
+  "merchant_id": "M0034",
+  "name": "Metro Exports 34",
+  "category": "grocery",
+  "risk_score": 57,
+  "chargeback_rate": 0.02,
+  "age_days": 318,
+  "tier": "medium"
+ },
+ {
+  "merchant_id": "M0035",
+  "name": "Royal Hub 35",
+  "category": "grocery",
+  "risk_score": 87,
+  "chargeback_rate": 0.09,
+  "age_days": 57,
+  "tier": "high"
+ },
+ {
+  "merchant_id": "M0036",
+  "name": "Metro Hub 36",
+  "category": "electronics",
+  "risk_score": 87,
+  "chargeback_rate": 0.09,
+  "age_days": 60,
+  "tier": "high"
+ },
+ {
+  "merchant_id": "M0037",
+  "name": "Global Traders 37",
+  "category": "fashion",
+  "risk_score": 80,
+  "chargeback_rate": 0.09,
+  "age_days": 10,
+  "tier": "high"
+ },
+ {
+  "merchant_id": "M0038",
+  "name": "Royal Traders 38",
+  "category": "grocery",
+  "risk_score": 86,
+  "chargeback_rate": 0.09,
+  "age_days": 33,
+  "tier": "high"
+ },
+ {
+  "merchant_id": "M0039",
+  "name": "Metro Stores 39",
+  "category": "pharmacy",
+  "risk_score": 85,
+  "chargeback_rate": 0.09,
+  "age_days": 49,
+  "tier": "high"
+ },
+ {
+  "merchant_id": "M0040",
+  "name": "Royal Pay 40",
+  "category": "fuel",
+  "risk_score": 88,
+  "chargeback_rate": 0.09,
+  "age_days": 32,
+  "tier": "high"
+ }
+]

@@ -1,0 +1,128 @@
+[
+ {
+  "dispute_id": "DSP0000",
+  "customer_id": "C0023",
+  "date": "2026-03-25T10:00:00",
+  "reason": "unauthorized transaction",
+  "fraud_confirmed": false
+ },
+ {
+  "dispute_id": "DSP0001",
+  "customer_id": "C0028",
+  "date": "2025-12-17T10:00:00",
+  "reason": "merchant did not deliver",
+  "fraud_confirmed": true
+ },
+ {
+  "dispute_id": "DSP0002",
+  "customer_id": "C0030",
+  "date": "2026-03-15T10:00:00",
+  "reason": "unauthorized transaction",
+  "fraud_confirmed": false
+ },
+ {
+  "dispute_id": "DSP0003",
+  "customer_id": "C0027",
+  "date": "2026-09-29T10:00:00",
+  "reason": "merchant did not deliver",
+  "fraud_confirmed": false
+ },
+ {
+  "dispute_id": "DSP0004",
+  "customer_id": "C0057",
+  "date": "2026-01-10T10:00:00",
+  "reason": "merchant did not deliver",
+  "fraud_confirmed": false
+ },
+ {
+  "dispute_id": "DSP0005",
+  "customer_id": "C0058",
+  "date": "2026-08-20T10:00:00",
+  "reason": "unauthorized transaction",
+  "fraud_confirmed": true
+ },
+ {
+  "dispute_id": "DSP0006",
+  "customer_id": "C0002",
+  "date": "2026-08-09T10:00:00",
+  "reason": "merchant did not deliver",
+  "fraud_confirmed": false
+ },
+ {
+  "dispute_id": "DSP0007",
+  "customer_id": "C0036",
+  "date": "2026-05-07T10:00:00",
+  "reason": "duplicate charge",
+  "fraud_confirmed": false
+ },
+ {
+  "dispute_id": "DSP0008",
+  "customer_id": "C0054",
+  "date": "2026-04-16T10:00:00",
+  "reason": "unauthorized transaction",
+  "fraud_confirmed": true
+ },
+ {
+  "dispute_id": "DSP0009",
+  "customer_id": "C0050",
+  "date": "2026-01-14T10:00:00",
+  "reason": "duplicate charge",
+  "fraud_confirmed": false
+ },
+ {
+  "dispute_id": "DSP0010",
+  "customer_id": "C0056",
+  "date": "2026-06-20T10:00:00",
+  "reason": "duplicate charge",
+  "fraud_confirmed": true
+ },
+ {
+  "dispute_id": "DSP0011",
+  "customer_id": "C0006",
+  "date": "2026-01-22T10:00:00",
+  "reason": "unauthorized transaction",
+  "fraud_confirmed": true
+ },
+ {
+  "dispute_id": "DSP0012",
+  "customer_id": "C0009",
+  "date": "2026-07-15T10:00:00",
+  "reason": "merchant did not deliver",
+  "fraud_confirmed": false
+ },
+ {
+  "dispute_id": "DSP0013",
+  "customer_id": "C0040",
+  "date": "2026-09-29T10:00:00",
+  "reason": "merchant did not deliver",
+  "fraud_confirmed": false
+ },
+ {
+  "dispute_id": "DSP0014",
+  "customer_id": "C0020",
+  "date": "2026-06-22T10:00:00",
+  "reason": "unauthorized transaction",
+  "fraud_confirmed": true
+ },
+ {
+  "dispute_id": "DSP0015",
+  "customer_id": "C0016",
+  "date": "2026-07-16T10:00:00",
+  "reason": "duplicate charge",
+  "fraud_confirmed": false
+ },
+ {
+  "dispute_id": "DSP0016",
+  "customer_id": "C0038",
+  "date": "2026-01-09T10:00:00",
+  "reason": "unauthorized transaction",
+  "fraud_confirmed": true
+ },
+ {
+  "dispute_id": "DSP0017",
+  "customer_id": "C0033",
+  "date": "2026-08-10T10:00:00",
+  "reason": "merchant did not deliver",
+  "fraud_confirmed": true
+ }
+]

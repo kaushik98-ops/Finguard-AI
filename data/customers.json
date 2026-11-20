@@ -1,0 +1,2185 @@
+[
+ {
+  "customer_id": "C0001",
+  "name": "Rohan Sharma",
+  "dob": "1979-03-24",
+  "pan": "CUNPS7912B",
+  "address": "8, MG Road, Kolkata 329258",
+  "phone": "+91-9349817734",
+  "employer": "Self-employed",
+  "monthly_income": 400000,
+  "account_open_date": "2021-01-18",
+  "accounts": [
+   {
+    "acct_no": "SB7635473142",
+    "type": "savings",
+    "balance": 245000
+   }
+  ],
+  "known_devices": [
+   "D-C0001-1"
+  ],
+  "home_geo": {
+   "city": "Kolkata",
+   "country": "IN",
+   "lat": 22.57,
+   "lon": 88.36
+  },
+  "avg_txn": 95000,
+  "usual_merchants": [
+   "M0011",
+   "M0006",
+   "M0016",
+   "M0023",
+   "M0012"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0002",
+  "name": "Aarav Nair",
+  "dob": "1982-03-07",
+  "pan": "ZHCPN2584M",
+  "address": "217, Station Road, Pune 733052",
+  "phone": "+91-9384027113",
+  "employer": "Govt. Teacher",
+  "monthly_income": 55000,
+  "account_open_date": "2012-08-18",
+  "accounts": [
+   {
+    "acct_no": "SB9256195745",
+    "type": "savings",
+    "balance": 100000
+   }
+  ],
+  "known_devices": [
+   "D-C0002-1"
+  ],
+  "home_geo": {
+   "city": "Pune",
+   "country": "IN",
+   "lat": 18.52,
+   "lon": 73.86
+  },
+  "avg_txn": 4940.0,
+  "usual_merchants": [
+   "M0026",
+   "M0017",
+   "M0009",
+   "M0003",
+   "M0024"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0003",
+  "name": "Ritu Banerjee",
+  "dob": "1969-01-22",
+  "pan": "FGBPB4814D",
+  "address": "98, Station Road, Chennai 575435",
+  "phone": "+91-9782560971",
+  "employer": "Govt. Teacher",
+  "monthly_income": 120000,
+  "account_open_date": "2017-03-15",
+  "accounts": [
+   {
+    "acct_no": "SB2525876051",
+    "type": "savings",
+    "balance": 706000
+   }
+  ],
+  "known_devices": [
+   "D-C0003-1",
+   "D-C0003-2"
+  ],
+  "home_geo": {
+   "city": "Chennai",
+   "country": "IN",
+   "lat": 13.08,
+   "lon": 80.27
+  },
+  "avg_txn": 11540.0,
+  "usual_merchants": [
+   "M0014",
+   "M0003",
+   "M0020",
+   "M0027",
+   "M0006"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0004",
+  "name": "Aditya Nair",
+  "dob": "1994-07-09",
+  "pan": "ZRNPN6313B",
+  "address": "59, MG Road, Chennai 944151",
+  "phone": "+91-9438715135",
+  "employer": "HDFC",
+  "monthly_income": 40000,
+  "account_open_date": "2016-02-13",
+  "accounts": [
+   {
+    "acct_no": "SB8378385615",
+    "type": "savings",
+    "balance": 237000
+   }
+  ],
+  "known_devices": [
+   "D-C0004-1"
+  ],
+  "home_geo": {
+   "city": "Chennai",
+   "country": "IN",
+   "lat": 13.08,
+   "lon": 80.27
+  },
+  "avg_txn": 2550.0,
+  "usual_merchants": [
+   "M0018",
+   "M0010",
+   "M0011",
+   "M0004",
+   "M0003"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0005",
+  "name": "Vikram Iyer",
+  "dob": "1980-12-18",
+  "pan": "NUKPI7543M",
+  "address": "57, Park Street, Kolkata 634277",
+  "phone": "+91-9629908599",
+  "employer": "Infosys",
+  "monthly_income": 40000,
+  "account_open_date": "2024-01-11",
+  "accounts": [
+   {
+    "acct_no": "SB8217611860",
+    "type": "savings",
+    "balance": 630000
+   }
+  ],
+  "known_devices": [
+   "D-C0005-1",
+   "D-C0005-2"
+  ],
+  "home_geo": {
+   "city": "Kolkata",
+   "country": "IN",
+   "lat": 22.57,
+   "lon": 88.36
+  },
+  "avg_txn": 2520.0,
+  "usual_merchants": [
+   "M0011",
+   "M0022",
+   "M0010",
+   "M0015",
+   "M0020"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0006",
+  "name": "Vikram Yadav",
+  "dob": "1965-11-24",
+  "pan": "CXUPY6573D",
+  "address": "76, Lake View Lane, Kolkata 265840",
+  "phone": "+91-9587182120",
+  "employer": "Infosys",
+  "monthly_income": 90000,
+  "account_open_date": "2023-05-18",
+  "accounts": [
+   {
+    "acct_no": "SB4272602734",
+    "type": "savings",
+    "balance": 539000
+   }
+  ],
+  "known_devices": [
+   "D-C0006-1"
+  ],
+  "home_geo": {
+   "city": "Kolkata",
+   "country": "IN",
+   "lat": 22.57,
+   "lon": 88.36
+  },
+  "avg_txn": 8300.0,
+  "usual_merchants": [
+   "M0023",
+   "M0014",
+   "M0006",
+   "M0015",
+   "M0012"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0007",
+  "name": "Pooja Yadav",
+  "dob": "1988-03-18",
+  "pan": "YYYPY6310S",
+  "address": "5, MG Road, Chennai 480612",
+  "phone": "+91-9992994062",
+  "employer": "Govt. Teacher",
+  "monthly_income": 40000,
+  "account_open_date": "2016-04-10",
+  "accounts": [
+   {
+    "acct_no": "SB1338258951",
+    "type": "savings",
+    "balance": 769000
+   }
+  ],
+  "known_devices": [
+   "D-C0007-1"
+  ],
+  "home_geo": {
+   "city": "Chennai",
+   "country": "IN",
+   "lat": 13.08,
+   "lon": 80.27
+  },
+  "avg_txn": 1770.0,
+  "usual_merchants": [
+   "M0015",
+   "M0002",
+   "M0024",
+   "M0028",
+   "M0012"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0008",
+  "name": "Kavya Iyer",
+  "dob": "1995-09-06",
+  "pan": "GXKPI4470U",
+  "address": "194, Nehru Marg, Bengaluru 823378",
+  "phone": "+91-9315984311",
+  "employer": "Tata Motors",
+  "monthly_income": 120000,
+  "account_open_date": "2016-07-15",
+  "accounts": [
+   {
+    "acct_no": "SB7517938612",
+    "type": "savings",
+    "balance": 143000
+   }
+  ],
+  "known_devices": [
+   "D-C0008-1",
+   "D-C0008-2"
+  ],
+  "home_geo": {
+   "city": "Bengaluru",
+   "country": "IN",
+   "lat": 12.97,
+   "lon": 77.59
+  },
+  "avg_txn": 5260.0,
+  "usual_merchants": [
+   "M0020",
+   "M0014",
+   "M0009",
+   "M0021",
+   "M0026"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0009",
+  "name": "Aarav Pillai",
+  "dob": "1979-01-03",
+  "pan": "TBBPP1514L",
+  "address": "19, Residency Road, Chennai 349565",
+  "phone": "+91-9399012686",
+  "employer": "Tata Motors",
+  "monthly_income": 90000,
+  "account_open_date": "2019-04-18",
+  "accounts": [
+   {
+    "acct_no": "SB3030106617",
+    "type": "savings",
+    "balance": 823000
+   }
+  ],
+  "known_devices": [
+   "D-C0009-1"
+  ],
+  "home_geo": {
+   "city": "Chennai",
+   "country": "IN",
+   "lat": 13.08,
+   "lon": 80.27
+  },
+  "avg_txn": 5800.0,
+  "usual_merchants": [
+   "M0002",
+   "M0003",
+   "M0022",
+   "M0021",
+   "M0013"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0010",
+  "name": "Rohan Sarkar",
+  "dob": "1992-07-15",
+  "pan": "WBSPS2612B",
+  "address": "104, Nehru Marg, Pune 455784",
+  "phone": "+91-9959629660",
+  "employer": "Govt. Teacher",
+  "monthly_income": 55000,
+  "account_open_date": "2013-04-13",
+  "accounts": [
+   {
+    "acct_no": "SB2926780541",
+    "type": "savings",
+    "balance": 452000
+   }
+  ],
+  "known_devices": [
+   "D-C0010-1",
+   "D-C0010-2"
+  ],
+  "home_geo": {
+   "city": "Pune",
+   "country": "IN",
+   "lat": 18.52,
+   "lon": 73.86
+  },
+  "avg_txn": 3730.0,
+  "usual_merchants": [
+   "M0012",
+   "M0017",
+   "M0026",
+   "M0024",
+   "M0022"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0011",
+  "name": "Aditya Chatterjee",
+  "dob": "1999-01-03",
+  "pan": "YWDPC8956S",
+  "address": "55, Lake View Lane, Delhi 161483",
+  "phone": "+91-9276777762",
+  "employer": "HDFC",
+  "monthly_income": 30000,
+  "account_open_date": "2012-07-14",
+  "accounts": [
+   {
+    "acct_no": "SB8667072205",
+    "type": "savings",
+    "balance": 312000
+   }
+  ],
+  "known_devices": [
+   "D-C0011-1"
+  ],
+  "home_geo": {
+   "city": "Delhi",
+   "country": "IN",
+   "lat": 28.61,
+   "lon": 77.21
+  },
+  "avg_txn": 2920.0,
+  "usual_merchants": [
+   "M0006",
+   "M0001",
+   "M0005",
+   "M0028",
+   "M0020"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0012",
+  "name": "Kavya Mishra",
+  "dob": "1983-04-02",
+  "pan": "PNUPM1936B",
+  "address": "150, Lake View Lane, Bengaluru 627276",
+  "phone": "+91-9670292350",
+  "employer": "TCS",
+  "monthly_income": 40000,
+  "account_open_date": "2012-09-11",
+  "accounts": [
+   {
+    "acct_no": "SB4656488400",
+    "type": "savings",
+    "balance": 90000
+   }
+  ],
+  "known_devices": [
+   "D-C0012-1"
+  ],
+  "home_geo": {
+   "city": "Bengaluru",
+   "country": "IN",
+   "lat": 12.97,
+   "lon": 77.59
+  },
+  "avg_txn": 3220.0,
+  "usual_merchants": [
+   "M0022",
+   "M0026",
+   "M0015",
+   "M0002",
+   "M0005"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0013",
+  "name": "Ananya Joshi",
+  "dob": "1980-10-20",
+  "pan": "ABSPJ9565L",
+  "address": "67, Park Street, Delhi 802258",
+  "phone": "+91-9869005091",
+  "employer": "Wipro",
+  "monthly_income": 90000,
+  "account_open_date": "2015-05-16",
+  "accounts": [
+   {
+    "acct_no": "SB8067372072",
+    "type": "savings",
+    "balance": 488000
+   }
+  ],
+  "known_devices": [
+   "D-C0013-1",
+   "D-C0013-2"
+  ],
+  "home_geo": {
+   "city": "Delhi",
+   "country": "IN",
+   "lat": 28.61,
+   "lon": 77.21
+  },
+  "avg_txn": 7660.0,
+  "usual_merchants": [
+   "M0003",
+   "M0008",
+   "M0025",
+   "M0021",
+   "M0012"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0014",
+  "name": "Aditya Sharma",
+  "dob": "1971-02-18",
+  "pan": "EGYPS2127H",
+  "address": "95, Station Road, Patna 265409",
+  "phone": "+91-9570497096",
+  "employer": "Govt. Teacher",
+  "monthly_income": 90000,
+  "account_open_date": "2020-05-19",
+  "accounts": [
+   {
+    "acct_no": "SB3271782991",
+    "type": "savings",
+    "balance": 703000
+   }
+  ],
+  "known_devices": [
+   "D-C0014-1"
+  ],
+  "home_geo": {
+   "city": "Patna",
+   "country": "IN",
+   "lat": 25.59,
+   "lon": 85.14
+  },
+  "avg_txn": 5220.0,
+  "usual_merchants": [
+   "M0012",
+   "M0013",
+   "M0019",
+   "M0002",
+   "M0020"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0015",
+  "name": "Rohan Iyer",
+  "dob": "1971-12-18",
+  "pan": "DGEPI6617G",
+  "address": "176, Nehru Marg, Kolkata 994343",
+  "phone": "+91-9383450553",
+  "employer": "Self-employed",
+  "monthly_income": 30000,
+  "account_open_date": "2019-05-10",
+  "accounts": [
+   {
+    "acct_no": "SB9986353481",
+    "type": "savings",
+    "balance": 453000
+   }
+  ],
+  "known_devices": [
+   "D-C0015-1"
+  ],
+  "home_geo": {
+   "city": "Kolkata",
+   "country": "IN",
+   "lat": 22.57,
+   "lon": 88.36
+  },
+  "avg_txn": 1280.0,
+  "usual_merchants": [
+   "M0005",
+   "M0022",
+   "M0015",
+   "M0012",
+   "M0025"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0016",
+  "name": "Rahul Iyer",
+  "dob": "1993-09-23",
+  "pan": "KABPI3442U",
+  "address": "10, Station Road, Kolkata 710805",
+  "phone": "+91-9693269304",
+  "employer": "TCS",
+  "monthly_income": 40000,
+  "account_open_date": "2018-03-10",
+  "accounts": [
+   {
+    "acct_no": "SB6618926823",
+    "type": "savings",
+    "balance": 835000
+   }
+  ],
+  "known_devices": [
+   "D-C0016-1"
+  ],
+  "home_geo": {
+   "city": "Kolkata",
+   "country": "IN",
+   "lat": 22.57,
+   "lon": 88.36
+  },
+  "avg_txn": 1700.0,
+  "usual_merchants": [
+   "M0003",
+   "M0019",
+   "M0005",
+   "M0017",
+   "M0012"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0017",
+  "name": "Amit Patel",
+  "dob": "1971-06-25",
+  "pan": "NXZPP3532H",
+  "address": "42, Park Street, Chennai 532322",
+  "phone": "+91-9126614158",
+  "employer": "TCS",
+  "monthly_income": 120000,
+  "account_open_date": "2023-06-16",
+  "accounts": [
+   {
+    "acct_no": "SB4482141802",
+    "type": "savings",
+    "balance": 293000
+   }
+  ],
+  "known_devices": [
+   "D-C0017-1",
+   "D-C0017-2"
+  ],
+  "home_geo": {
+   "city": "Chennai",
+   "country": "IN",
+   "lat": 13.08,
+   "lon": 80.27
+  },
+  "avg_txn": 9850.0,
+  "usual_merchants": [
+   "M0013",
+   "M0011",
+   "M0021",
+   "M0009",
+   "M0008"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0018",
+  "name": "Sunita Verma",
+  "dob": "1977-08-12",
+  "pan": "HVFPV1387Y",
+  "address": "50, Lake View Lane, Patna 444207",
+  "phone": "+91-9399147754",
+  "employer": "Govt. Teacher",
+  "monthly_income": 40000,
+  "account_open_date": "2013-05-15",
+  "accounts": [
+   {
+    "acct_no": "SB7597996327",
+    "type": "savings",
+    "balance": 48000
+   }
+  ],
+  "known_devices": [
+   "D-C0018-1",
+   "D-C0018-2"
+  ],
+  "home_geo": {
+   "city": "Patna",
+   "country": "IN",
+   "lat": 25.59,
+   "lon": 85.14
+  },
+  "avg_txn": 3930.0,
+  "usual_merchants": [
+   "M0004",
+   "M0001",
+   "M0024",
+   "M0006",
+   "M0016"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0019",
+  "name": "Neha Singh",
+  "dob": "1992-06-24",
+  "pan": "VLZPS2894N",
+  "address": "148, Park Street, Mumbai 367095",
+  "phone": "+91-9147659674",
+  "employer": "Tata Motors",
+  "monthly_income": 30000,
+  "account_open_date": "2018-01-18",
+  "accounts": [
+   {
+    "acct_no": "SB3880327491",
+    "type": "savings",
+    "balance": 392000
+   }
+  ],
+  "known_devices": [
+   "D-C0019-1"
+  ],
+  "home_geo": {
+   "city": "Mumbai",
+   "country": "IN",
+   "lat": 19.07,
+   "lon": 72.88
+  },
+  "avg_txn": 2910.0,
+  "usual_merchants": [
+   "M0017",
+   "M0013",
+   "M0018",
+   "M0004",
+   "M0009"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0020",
+  "name": "Rahul Mehta",
+  "dob": "1984-09-10",
+  "pan": "SHTPM3085G",
+  "address": "108, Nehru Marg, Delhi 497562",
+  "phone": "+91-9827264603",
+  "employer": "Tata Motors",
+  "monthly_income": 120000,
+  "account_open_date": "2014-05-16",
+  "accounts": [
+   {
+    "acct_no": "SB5296710795",
+    "type": "savings",
+    "balance": 313000
+   }
+  ],
+  "known_devices": [
+   "D-C0020-1",
+   "D-C0020-2"
+  ],
+  "home_geo": {
+   "city": "Delhi",
+   "country": "IN",
+   "lat": 28.61,
+   "lon": 77.21
+  },
+  "avg_txn": 10460.0,
+  "usual_merchants": [
+   "M0025",
+   "M0009",
+   "M0023",
+   "M0015",
+   "M0007"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0021",
+  "name": "Ritu Mehta",
+  "dob": "1993-11-07",
+  "pan": "MVZPM3780Y",
+  "address": "22, Station Road, Patna 640490",
+  "phone": "+91-9812807629",
+  "employer": "Tata Motors",
+  "monthly_income": 70000,
+  "account_open_date": "2021-06-11",
+  "accounts": [
+   {
+    "acct_no": "SB4226113732",
+    "type": "savings",
+    "balance": 708000
+   }
+  ],
+  "known_devices": [
+   "D-C0021-1",
+   "D-C0021-2"
+  ],
+  "home_geo": {
+   "city": "Patna",
+   "country": "IN",
+   "lat": 25.59,
+   "lon": 85.14
+  },
+  "avg_txn": 6190.0,
+  "usual_merchants": [
+   "M0020",
+   "M0010",
+   "M0023",
+   "M0016",
+   "M0007"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0022",
+  "name": "Karan Sharma",
+  "dob": "1995-10-28",
+  "pan": "ULXPS4185Z",
+  "address": "179, Lake View Lane, Mumbai 618392",
+  "phone": "+91-9529123992",
+  "employer": "TCS",
+  "monthly_income": 40000,
+  "account_open_date": "2014-01-11",
+  "accounts": [
+   {
+    "acct_no": "SB8638257497",
+    "type": "savings",
+    "balance": 244000
+   }
+  ],
+  "known_devices": [
+   "D-C0022-1",
+   "D-C0022-2"
+  ],
+  "home_geo": {
+   "city": "Mumbai",
+   "country": "IN",
+   "lat": 19.07,
+   "lon": 72.88
+  },
+  "avg_txn": 3900.0,
+  "usual_merchants": [
+   "M0004",
+   "M0005",
+   "M0028",
+   "M0003",
+   "M0015"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0023",
+  "name": "Arjun Chatterjee",
+  "dob": "1980-02-15",
+  "pan": "DLNPC6198R",
+  "address": "157, Nehru Marg, Mumbai 629298",
+  "phone": "+91-9558209399",
+  "employer": "Govt. Teacher",
+  "monthly_income": 90000,
+  "account_open_date": "2020-08-12",
+  "accounts": [
+   {
+    "acct_no": "SB7333678472",
+    "type": "savings",
+    "balance": 285000
+   }
+  ],
+  "known_devices": [
+   "D-C0023-1"
+  ],
+  "home_geo": {
+   "city": "Mumbai",
+   "country": "IN",
+   "lat": 19.07,
+   "lon": 72.88
+  },
+  "avg_txn": 8140.0,
+  "usual_merchants": [
+   "M0006",
+   "M0023",
+   "M0015",
+   "M0003",
+   "M0026"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0024",
+  "name": "Sneha Yadav",
+  "dob": "1980-05-15",
+  "pan": "BGGPY6238U",
+  "address": "21, Park Street, Patna 258157",
+  "phone": "+91-9348315126",
+  "employer": "HDFC",
+  "monthly_income": 120000,
+  "account_open_date": "2023-03-13",
+  "accounts": [
+   {
+    "acct_no": "SB5570828113",
+    "type": "savings",
+    "balance": 437000
+   }
+  ],
+  "known_devices": [
+   "D-C0024-1",
+   "D-C0024-2"
+  ],
+  "home_geo": {
+   "city": "Patna",
+   "country": "IN",
+   "lat": 25.59,
+   "lon": 85.14
+  },
+  "avg_txn": 8150.0,
+  "usual_merchants": [
+   "M0022",
+   "M0028",
+   "M0011",
+   "M0012",
+   "M0023"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0025",
+  "name": "Vivaan Patel",
+  "dob": "1966-10-13",
+  "pan": "LYGPP7389P",
+  "address": "138, Nehru Marg, Pune 870319",
+  "phone": "+91-9686405096",
+  "employer": "Govt. Teacher",
+  "monthly_income": 70000,
+  "account_open_date": "2021-04-17",
+  "accounts": [
+   {
+    "acct_no": "SB6237376063",
+    "type": "savings",
+    "balance": 466000
+   }
+  ],
+  "known_devices": [
+   "D-C0025-1"
+  ],
+  "home_geo": {
+   "city": "Pune",
+   "country": "IN",
+   "lat": 18.52,
+   "lon": 73.86
+  },
+  "avg_txn": 4430.0,
+  "usual_merchants": [
+   "M0003",
+   "M0018",
+   "M0010",
+   "M0028",
+   "M0006"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0026",
+  "name": "Sunita Nair",
+  "dob": "1999-01-13",
+  "pan": "PSBPN8022E",
+  "address": "119, Park Street, Patna 152727",
+  "phone": "+91-9379340713",
+  "employer": "HDFC",
+  "monthly_income": 40000,
+  "account_open_date": "2017-04-17",
+  "accounts": [
+   {
+    "acct_no": "SB6698759353",
+    "type": "savings",
+    "balance": 799000
+   }
+  ],
+  "known_devices": [
+   "D-C0026-1"
+  ],
+  "home_geo": {
+   "city": "Patna",
+   "country": "IN",
+   "lat": 25.59,
+   "lon": 85.14
+  },
+  "avg_txn": 2270.0,
+  "usual_merchants": [
+   "M0023",
+   "M0021",
+   "M0006",
+   "M0026",
+   "M0012"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0027",
+  "name": "Meera Singh",
+  "dob": "1966-12-18",
+  "pan": "BYFPS2124X",
+  "address": "11, MG Road, Delhi 359295",
+  "phone": "+91-9314061901",
+  "employer": "Govt. Teacher",
+  "monthly_income": 70000,
+  "account_open_date": "2012-03-13",
+  "accounts": [
+   {
+    "acct_no": "SB5837082260",
+    "type": "savings",
+    "balance": 705000
+   }
+  ],
+  "known_devices": [
+   "D-C0027-1",
+   "D-C0027-2"
+  ],
+  "home_geo": {
+   "city": "Delhi",
+   "country": "IN",
+   "lat": 28.61,
+   "lon": 77.21
+  },
+  "avg_txn": 6780.0,
+  "usual_merchants": [
+   "M0017",
+   "M0008",
+   "M0004",
+   "M0007",
+   "M0026"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0028",
+  "name": "Vikram Singh",
+  "dob": "1972-03-10",
+  "pan": "CAHPS7149N",
+  "address": "184, Park Street, Hyderabad 179688",
+  "phone": "+91-9735760237",
+  "employer": "Tata Motors",
+  "monthly_income": 40000,
+  "account_open_date": "2025-04-11",
+  "accounts": [
+   {
+    "acct_no": "SB4459716271",
+    "type": "savings",
+    "balance": 835000
+   }
+  ],
+  "known_devices": [
+   "D-C0028-1"
+  ],
+  "home_geo": {
+   "city": "Hyderabad",
+   "country": "IN",
+   "lat": 17.38,
+   "lon": 78.48
+  },
+  "avg_txn": 3480.0,
+  "usual_merchants": [
+   "M0005",
+   "M0008",
+   "M0026",
+   "M0016",
+   "M0001"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0029",
+  "name": "Amit Pillai",
+  "dob": "1988-02-17",
+  "pan": "RAKPP9031D",
+  "address": "111, Station Road, Pune 766459",
+  "phone": "+91-9989817696",
+  "employer": "HDFC",
+  "monthly_income": 120000,
+  "account_open_date": "2023-03-16",
+  "accounts": [
+   {
+    "acct_no": "SB8088660633",
+    "type": "savings",
+    "balance": 650000
+   }
+  ],
+  "known_devices": [
+   "D-C0029-1"
+  ],
+  "home_geo": {
+   "city": "Pune",
+   "country": "IN",
+   "lat": 18.52,
+   "lon": 73.86
+  },
+  "avg_txn": 8670.0,
+  "usual_merchants": [
+   "M0012",
+   "M0018",
+   "M0019",
+   "M0015",
+   "M0026"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0030",
+  "name": "Deepa Chatterjee",
+  "dob": "1982-06-28",
+  "pan": "FYGPC8385H",
+  "address": "193, Lake View Lane, Pune 697530",
+  "phone": "+91-9755338677",
+  "employer": "Tata Motors",
+  "monthly_income": 160000,
+  "account_open_date": "2018-06-10",
+  "accounts": [
+   {
+    "acct_no": "SB2395925222",
+    "type": "savings",
+    "balance": 519000
+   }
+  ],
+  "known_devices": [
+   "D-C0030-1",
+   "D-C0030-2"
+  ],
+  "home_geo": {
+   "city": "Pune",
+   "country": "IN",
+   "lat": 18.52,
+   "lon": 73.86
+  },
+  "avg_txn": 14060.0,
+  "usual_merchants": [
+   "M0018",
+   "M0005",
+   "M0020",
+   "M0003",
+   "M0010"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0031",
+  "name": "Rahul Singh",
+  "dob": "1965-09-07",
+  "pan": "BTMPS4937Z",
+  "address": "122, Nehru Marg, Kolkata 846420",
+  "phone": "+91-9627015393",
+  "employer": "HDFC",
+  "monthly_income": 90000,
+  "account_open_date": "2024-01-11",
+  "accounts": [
+   {
+    "acct_no": "SB2263732197",
+    "type": "savings",
+    "balance": 434000
+   }
+  ],
+  "known_devices": [
+   "D-C0031-1"
+  ],
+  "home_geo": {
+   "city": "Kolkata",
+   "country": "IN",
+   "lat": 22.57,
+   "lon": 88.36
+  },
+  "avg_txn": 5250.0,
+  "usual_merchants": [
+   "M0013",
+   "M0023",
+   "M0024",
+   "M0016",
+   "M0017"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0032",
+  "name": "Manish Banerjee",
+  "dob": "1998-06-14",
+  "pan": "ZNJPB8434J",
+  "address": "79, Station Road, Patna 341736",
+  "phone": "+91-9229553265",
+  "employer": "Tata Motors",
+  "monthly_income": 90000,
+  "account_open_date": "2015-06-11",
+  "accounts": [
+   {
+    "acct_no": "SB3964229896",
+    "type": "savings",
+    "balance": 216000
+   }
+  ],
+  "known_devices": [
+   "D-C0032-1",
+   "D-C0032-2"
+  ],
+  "home_geo": {
+   "city": "Patna",
+   "country": "IN",
+   "lat": 25.59,
+   "lon": 85.14
+  },
+  "avg_txn": 6210.0,
+  "usual_merchants": [
+   "M0014",
+   "M0025",
+   "M0027",
+   "M0019",
+   "M0003"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0033",
+  "name": "Manish Yadav",
+  "dob": "1977-05-08",
+  "pan": "JGTPY3073J",
+  "address": "12, MG Road, Kolkata 680238",
+  "phone": "+91-9413679331",
+  "employer": "Tata Motors",
+  "monthly_income": 30000,
+  "account_open_date": "2014-08-11",
+  "accounts": [
+   {
+    "acct_no": "SB4748302739",
+    "type": "savings",
+    "balance": 607000
+   }
+  ],
+  "known_devices": [
+   "D-C0033-1",
+   "D-C0033-2"
+  ],
+  "home_geo": {
+   "city": "Kolkata",
+   "country": "IN",
+   "lat": 22.57,
+   "lon": 88.36
+  },
+  "avg_txn": 2060.0,
+  "usual_merchants": [
+   "M0005",
+   "M0011",
+   "M0021",
+   "M0003",
+   "M0015"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0034",
+  "name": "Rahul Nair",
+  "dob": "1995-02-27",
+  "pan": "BMPPN1878E",
+  "address": "39, Residency Road, Mumbai 418594",
+  "phone": "+91-9191462297",
+  "employer": "TCS",
+  "monthly_income": 55000,
+  "account_open_date": "2013-09-16",
+  "accounts": [
+   {
+    "acct_no": "SB7539399243",
+    "type": "savings",
+    "balance": 481000
+   }
+  ],
+  "known_devices": [
+   "D-C0034-1"
+  ],
+  "home_geo": {
+   "city": "Mumbai",
+   "country": "IN",
+   "lat": 19.07,
+   "lon": 72.88
+  },
+  "avg_txn": 3180.0,
+  "usual_merchants": [
+   "M0015",
+   "M0022",
+   "M0017",
+   "M0012",
+   "M0005"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0035",
+  "name": "Manish Kulkarni",
+  "dob": "1968-10-24",
+  "pan": "CURPK5335Y",
+  "address": "21, Park Street, Kolkata 351516",
+  "phone": "+91-9286630878",
+  "employer": "Self-employed",
+  "monthly_income": 90000,
+  "account_open_date": "2013-03-10",
+  "accounts": [
+   {
+    "acct_no": "SB7049536909",
+    "type": "savings",
+    "balance": 725000
+   }
+  ],
+  "known_devices": [
+   "D-C0035-1"
+  ],
+  "home_geo": {
+   "city": "Kolkata",
+   "country": "IN",
+   "lat": 22.57,
+   "lon": 88.36
+  },
+  "avg_txn": 5170.0,
+  "usual_merchants": [
+   "M0027",
+   "M0025",
+   "M0018",
+   "M0021",
+   "M0019"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0036",
+  "name": "Ananya Reddy",
+  "dob": "1994-02-22",
+  "pan": "FGVPR4241P",
+  "address": "30, Residency Road, Kolkata 335729",
+  "phone": "+91-9795392488",
+  "employer": "TCS",
+  "monthly_income": 120000,
+  "account_open_date": "2016-03-11",
+  "accounts": [
+   {
+    "acct_no": "SB1256143439",
+    "type": "savings",
+    "balance": 831000
+   }
+  ],
+  "known_devices": [
+   "D-C0036-1",
+   "D-C0036-2"
+  ],
+  "home_geo": {
+   "city": "Kolkata",
+   "country": "IN",
+   "lat": 22.57,
+   "lon": 88.36
+  },
+  "avg_txn": 10190.0,
+  "usual_merchants": [
+   "M0006",
+   "M0025",
+   "M0005",
+   "M0014",
+   "M0017"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0037",
+  "name": "Manish Reddy",
+  "dob": "1994-12-10",
+  "pan": "TYMPR9090R",
+  "address": "21, Residency Road, Patna 141797",
+  "phone": "+91-9563887247",
+  "employer": "Tata Motors",
+  "monthly_income": 30000,
+  "account_open_date": "2017-05-10",
+  "accounts": [
+   {
+    "acct_no": "SB1392245997",
+    "type": "savings",
+    "balance": 710000
+   }
+  ],
+  "known_devices": [
+   "D-C0037-1"
+  ],
+  "home_geo": {
+   "city": "Patna",
+   "country": "IN",
+   "lat": 25.59,
+   "lon": 85.14
+  },
+  "avg_txn": 2240.0,
+  "usual_merchants": [
+   "M0028",
+   "M0002",
+   "M0027",
+   "M0004",
+   "M0017"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0038",
+  "name": "Aarav Singh",
+  "dob": "1976-08-17",
+  "pan": "RYEPS8141X",
+  "address": "209, Lake View Lane, Mumbai 195674",
+  "phone": "+91-9604669821",
+  "employer": "Wipro",
+  "monthly_income": 160000,
+  "account_open_date": "2018-06-15",
+  "accounts": [
+   {
+    "acct_no": "SB3878201524",
+    "type": "savings",
+    "balance": 898000
+   }
+  ],
+  "known_devices": [
+   "D-C0038-1",
+   "D-C0038-2"
+  ],
+  "home_geo": {
+   "city": "Mumbai",
+   "country": "IN",
+   "lat": 19.07,
+   "lon": 72.88
+  },
+  "avg_txn": 10350.0,
+  "usual_merchants": [
+   "M0005",
+   "M0010",
+   "M0006",
+   "M0011",
+   "M0023"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0039",
+  "name": "Deepa Reddy",
+  "dob": "2000-01-15",
+  "pan": "CFCPR7622T",
+  "address": "212, MG Road, Pune 789606",
+  "phone": "+91-9682605435",
+  "employer": "HDFC",
+  "monthly_income": 160000,
+  "account_open_date": "2018-01-13",
+  "accounts": [
+   {
+    "acct_no": "SB7521647547",
+    "type": "savings",
+    "balance": 657000
+   }
+  ],
+  "known_devices": [
+   "D-C0039-1"
+  ],
+  "home_geo": {
+   "city": "Pune",
+   "country": "IN",
+   "lat": 18.52,
+   "lon": 73.86
+  },
+  "avg_txn": 12400.0,
+  "usual_merchants": [
+   "M0008",
+   "M0012",
+   "M0017",
+   "M0010",
+   "M0028"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0040",
+  "name": "Vivaan Patel",
+  "dob": "1973-05-15",
+  "pan": "XMAPP4920Z",
+  "address": "41, Station Road, Kolkata 677596",
+  "phone": "+91-9114682844",
+  "employer": "Self-employed",
+  "monthly_income": 90000,
+  "account_open_date": "2018-02-13",
+  "accounts": [
+   {
+    "acct_no": "SB4921003983",
+    "type": "savings",
+    "balance": 492000
+   }
+  ],
+  "known_devices": [
+   "D-C0040-1"
+  ],
+  "home_geo": {
+   "city": "Kolkata",
+   "country": "IN",
+   "lat": 22.57,
+   "lon": 88.36
+  },
+  "avg_txn": 7100.0,
+  "usual_merchants": [
+   "M0003",
+   "M0009",
+   "M0007",
+   "M0021",
+   "M0018"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0041",
+  "name": "Karan Mishra",
+  "dob": "1982-07-27",
+  "pan": "MLLPM3369N",
+  "address": "49, Residency Road, Kolkata 632929",
+  "phone": "+91-9901325519",
+  "employer": "TCS",
+  "monthly_income": 90000,
+  "account_open_date": "2025-02-14",
+  "accounts": [
+   {
+    "acct_no": "SB8964640525",
+    "type": "savings",
+    "balance": 368000
+   }
+  ],
+  "known_devices": [
+   "D-C0041-1"
+  ],
+  "home_geo": {
+   "city": "Kolkata",
+   "country": "IN",
+   "lat": 22.57,
+   "lon": 88.36
+  },
+  "avg_txn": 6340.0,
+  "usual_merchants": [
+   "M0009",
+   "M0005",
+   "M0021",
+   "M0010",
+   "M0020"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0042",
+  "name": "Aarav Reddy",
+  "dob": "1996-03-15",
+  "pan": "NHNPR9903N",
+  "address": "117, Station Road, Kolkata 297816",
+  "phone": "+91-9848933239",
+  "employer": "TCS",
+  "monthly_income": 160000,
+  "account_open_date": "2021-07-13",
+  "accounts": [
+   {
+    "acct_no": "SB2764265618",
+    "type": "savings",
+    "balance": 345000
+   }
+  ],
+  "known_devices": [
+   "D-C0042-1"
+  ],
+  "home_geo": {
+   "city": "Kolkata",
+   "country": "IN",
+   "lat": 22.57,
+   "lon": 88.36
+  },
+  "avg_txn": 13170.0,
+  "usual_merchants": [
+   "M0018",
+   "M0003",
+   "M0017",
+   "M0021",
+   "M0006"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0043",
+  "name": "Sunita Joshi",
+  "dob": "1967-03-17",
+  "pan": "ZHCPJ8213D",
+  "address": "135, Lake View Lane, Bengaluru 116093",
+  "phone": "+91-9875718152",
+  "employer": "TCS",
+  "monthly_income": 70000,
+  "account_open_date": "2018-03-11",
+  "accounts": [
+   {
+    "acct_no": "SB9457665185",
+    "type": "savings",
+    "balance": 366000
+   }
+  ],
+  "known_devices": [
+   "D-C0043-1"
+  ],
+  "home_geo": {
+   "city": "Bengaluru",
+   "country": "IN",
+   "lat": 12.97,
+   "lon": 77.59
+  },
+  "avg_txn": 4470.0,
+  "usual_merchants": [
+   "M0019",
+   "M0005",
+   "M0006",
+   "M0022",
+   "M0020"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0044",
+  "name": "Aditya Mehta",
+  "dob": "1996-09-02",
+  "pan": "RFSPM5708H",
+  "address": "192, MG Road, Pune 555052",
+  "phone": "+91-9205702499",
+  "employer": "Govt. Teacher",
+  "monthly_income": 55000,
+  "account_open_date": "2022-02-17",
+  "accounts": [
+   {
+    "acct_no": "SB1124327519",
+    "type": "savings",
+    "balance": 352000
+   }
+  ],
+  "known_devices": [
+   "D-C0044-1"
+  ],
+  "home_geo": {
+   "city": "Pune",
+   "country": "IN",
+   "lat": 18.52,
+   "lon": 73.86
+  },
+  "avg_txn": 3170.0,
+  "usual_merchants": [
+   "M0024",
+   "M0020",
+   "M0011",
+   "M0027",
+   "M0019"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0045",
+  "name": "Amit Kulkarni",
+  "dob": "1998-07-19",
+  "pan": "SEEPK7267W",
+  "address": "175, Park Street, Bengaluru 621841",
+  "phone": "+91-9726160204",
+  "employer": "TCS",
+  "monthly_income": 40000,
+  "account_open_date": "2015-08-14",
+  "accounts": [
+   {
+    "acct_no": "SB7268807553",
+    "type": "savings",
+    "balance": 702000
+   }
+  ],
+  "known_devices": [
+   "D-C0045-1",
+   "D-C0045-2"
+  ],
+  "home_geo": {
+   "city": "Bengaluru",
+   "country": "IN",
+   "lat": 12.97,
+   "lon": 77.59
+  },
+  "avg_txn": 3530.0,
+  "usual_merchants": [
+   "M0002",
+   "M0027",
+   "M0028",
+   "M0001",
+   "M0003"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0046",
+  "name": "Pooja Pillai",
+  "dob": "1993-06-19",
+  "pan": "GZSPP8484K",
+  "address": "51, Lake View Lane, Bengaluru 994787",
+  "phone": "+91-9618840705",
+  "employer": "Infosys",
+  "monthly_income": 30000,
+  "account_open_date": "2015-07-19",
+  "accounts": [
+   {
+    "acct_no": "SB8298348088",
+    "type": "savings",
+    "balance": 42000
+   }
+  ],
+  "known_devices": [
+   "D-C0046-1"
+  ],
+  "home_geo": {
+   "city": "Bengaluru",
+   "country": "IN",
+   "lat": 12.97,
+   "lon": 77.59
+  },
+  "avg_txn": 2380.0,
+  "usual_merchants": [
+   "M0002",
+   "M0021",
+   "M0025",
+   "M0019",
+   "M0009"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0047",
+  "name": "Sneha Sharma",
+  "dob": "1996-05-25",
+  "pan": "VPJPS4115W",
+  "address": "65, Nehru Marg, Mumbai 892280",
+  "phone": "+91-9874090950",
+  "employer": "Govt. Teacher",
+  "monthly_income": 90000,
+  "account_open_date": "2022-03-11",
+  "accounts": [
+   {
+    "acct_no": "SB3776011793",
+    "type": "savings",
+    "balance": 336000
+   }
+  ],
+  "known_devices": [
+   "D-C0047-1"
+  ],
+  "home_geo": {
+   "city": "Mumbai",
+   "country": "IN",
+   "lat": 19.07,
+   "lon": 72.88
+  },
+  "avg_txn": 3780.0,
+  "usual_merchants": [
+   "M0021",
+   "M0007",
+   "M0025",
+   "M0019",
+   "M0014"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0048",
+  "name": "Amit Iyer",
+  "dob": "1985-12-14",
+  "pan": "EDNPI6994T",
+  "address": "129, Station Road, Delhi 970813",
+  "phone": "+91-9276678230",
+  "employer": "Wipro",
+  "monthly_income": 55000,
+  "account_open_date": "2025-08-14",
+  "accounts": [
+   {
+    "acct_no": "SB5789617427",
+    "type": "savings",
+    "balance": 97000
+   }
+  ],
+  "known_devices": [
+   "D-C0048-1",
+   "D-C0048-2"
+  ],
+  "home_geo": {
+   "city": "Delhi",
+   "country": "IN",
+   "lat": 28.61,
+   "lon": 77.21
+  },
+  "avg_txn": 5390.0,
+  "usual_merchants": [
+   "M0020",
+   "M0021",
+   "M0001",
+   "M0016",
+   "M0018"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0049",
+  "name": "Sunita Pillai",
+  "dob": "1990-01-09",
+  "pan": "NLSPP5295V",
+  "address": "98, Nehru Marg, Hyderabad 489518",
+  "phone": "+91-9216335741",
+  "employer": "Tata Motors",
+  "monthly_income": 30000,
+  "account_open_date": "2015-08-10",
+  "accounts": [
+   {
+    "acct_no": "SB3620283102",
+    "type": "savings",
+    "balance": 683000
+   }
+  ],
+  "known_devices": [
+   "D-C0049-1",
+   "D-C0049-2"
+  ],
+  "home_geo": {
+   "city": "Hyderabad",
+   "country": "IN",
+   "lat": 17.38,
+   "lon": 78.48
+  },
+  "avg_txn": 2680.0,
+  "usual_merchants": [
+   "M0010",
+   "M0021",
+   "M0016",
+   "M0008",
+   "M0026"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0050",
+  "name": "Pooja Kulkarni",
+  "dob": "1967-01-10",
+  "pan": "ZCFPK9807E",
+  "address": "100, Lake View Lane, Delhi 489033",
+  "phone": "+91-9819929088",
+  "employer": "Tata Motors",
+  "monthly_income": 40000,
+  "account_open_date": "2023-09-16",
+  "accounts": [
+   {
+    "acct_no": "SB4120719599",
+    "type": "savings",
+    "balance": 444000
+   }
+  ],
+  "known_devices": [
+   "D-C0050-1"
+  ],
+  "home_geo": {
+   "city": "Delhi",
+   "country": "IN",
+   "lat": 28.61,
+   "lon": 77.21
+  },
+  "avg_txn": 3600.0,
+  "usual_merchants": [
+   "M0026",
+   "M0022",
+   "M0013",
+   "M0010",
+   "M0015"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0051",
+  "name": "Ritu Kulkarni",
+  "dob": "1988-04-15",
+  "pan": "LFJPK7018U",
+  "address": "166, Station Road, Kolkata 163491",
+  "phone": "+91-9527499187",
+  "employer": "Wipro",
+  "monthly_income": 30000,
+  "account_open_date": "2015-02-17",
+  "accounts": [
+   {
+    "acct_no": "SB9983668939",
+    "type": "savings",
+    "balance": 237000
+   }
+  ],
+  "known_devices": [
+   "D-C0051-1"
+  ],
+  "home_geo": {
+   "city": "Kolkata",
+   "country": "IN",
+   "lat": 22.57,
+   "lon": 88.36
+  },
+  "avg_txn": 2270.0,
+  "usual_merchants": [
+   "M0003",
+   "M0023",
+   "M0002",
+   "M0006",
+   "M0015"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0052",
+  "name": "Aarav Verma",
+  "dob": "1973-10-07",
+  "pan": "BUEPV4538H",
+  "address": "85, Park Street, Hyderabad 926952",
+  "phone": "+91-9739930411",
+  "employer": "Infosys",
+  "monthly_income": 40000,
+  "account_open_date": "2016-03-12",
+  "accounts": [
+   {
+    "acct_no": "SB7615175036",
+    "type": "savings",
+    "balance": 837000
+   }
+  ],
+  "known_devices": [
+   "D-C0052-1",
+   "D-C0052-2"
+  ],
+  "home_geo": {
+   "city": "Hyderabad",
+   "country": "IN",
+   "lat": 17.38,
+   "lon": 78.48
+  },
+  "avg_txn": 3190.0,
+  "usual_merchants": [
+   "M0014",
+   "M0016",
+   "M0015",
+   "M0007",
+   "M0011"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0053",
+  "name": "Aarav Iyer",
+  "dob": "1980-10-11",
+  "pan": "AGCPI7897T",
+  "address": "30, Nehru Marg, Mumbai 166645",
+  "phone": "+91-9611365210",
+  "employer": "HDFC",
+  "monthly_income": 55000,
+  "account_open_date": "2024-06-18",
+  "accounts": [
+   {
+    "acct_no": "SB3549776132",
+    "type": "savings",
+    "balance": 482000
+   }
+  ],
+  "known_devices": [
+   "D-C0053-1"
+  ],
+  "home_geo": {
+   "city": "Mumbai",
+   "country": "IN",
+   "lat": 19.07,
+   "lon": 72.88
+  },
+  "avg_txn": 5320.0,
+  "usual_merchants": [
+   "M0020",
+   "M0005",
+   "M0011",
+   "M0028",
+   "M0023"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0054",
+  "name": "Vivaan Yadav",
+  "dob": "1966-01-16",
+  "pan": "WKCPY8267C",
+  "address": "21, Station Road, Kolkata 737846",
+  "phone": "+91-9259272239",
+  "employer": "Infosys",
+  "monthly_income": 70000,
+  "account_open_date": "2014-05-19",
+  "accounts": [
+   {
+    "acct_no": "SB6691628146",
+    "type": "savings",
+    "balance": 631000
+   }
+  ],
+  "known_devices": [
+   "D-C0054-1"
+  ],
+  "home_geo": {
+   "city": "Kolkata",
+   "country": "IN",
+   "lat": 22.57,
+   "lon": 88.36
+  },
+  "avg_txn": 4710.0,
+  "usual_merchants": [
+   "M0011",
+   "M0024",
+   "M0028",
+   "M0012",
+   "M0013"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0055",
+  "name": "Ritu Kulkarni",
+  "dob": "1972-11-21",
+  "pan": "XNWPK8046R",
+  "address": "59, Lake View Lane, Delhi 455395",
+  "phone": "+91-9988434627",
+  "employer": "HDFC",
+  "monthly_income": 160000,
+  "account_open_date": "2018-07-11",
+  "accounts": [
+   {
+    "acct_no": "SB6637352245",
+    "type": "savings",
+    "balance": 340000
+   }
+  ],
+  "known_devices": [
+   "D-C0055-1"
+  ],
+  "home_geo": {
+   "city": "Delhi",
+   "country": "IN",
+   "lat": 28.61,
+   "lon": 77.21
+  },
+  "avg_txn": 9990.0,
+  "usual_merchants": [
+   "M0005",
+   "M0025",
+   "M0012",
+   "M0017",
+   "M0018"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0056",
+  "name": "Karan Mishra",
+  "dob": "1970-02-14",
+  "pan": "CTVPM1982V",
+  "address": "144, Residency Road, Delhi 445658",
+  "phone": "+91-9819421270",
+  "employer": "Infosys",
+  "monthly_income": 30000,
+  "account_open_date": "2018-06-16",
+  "accounts": [
+   {
+    "acct_no": "SB4096932037",
+    "type": "savings",
+    "balance": 314000
+   }
+  ],
+  "known_devices": [
+   "D-C0056-1"
+  ],
+  "home_geo": {
+   "city": "Delhi",
+   "country": "IN",
+   "lat": 28.61,
+   "lon": 77.21
+  },
+  "avg_txn": 1830.0,
+  "usual_merchants": [
+   "M0004",
+   "M0011",
+   "M0008",
+   "M0015",
+   "M0009"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0057",
+  "name": "Manish Yadav",
+  "dob": "1995-04-28",
+  "pan": "CWJPY5564V",
+  "address": "58, Lake View Lane, Chennai 986209",
+  "phone": "+91-9702332331",
+  "employer": "Govt. Teacher",
+  "monthly_income": 40000,
+  "account_open_date": "2025-09-10",
+  "accounts": [
+   {
+    "acct_no": "SB8273403366",
+    "type": "savings",
+    "balance": 49000
+   }
+  ],
+  "known_devices": [
+   "D-C0057-1",
+   "D-C0057-2"
+  ],
+  "home_geo": {
+   "city": "Chennai",
+   "country": "IN",
+   "lat": 13.08,
+   "lon": 80.27
+  },
+  "avg_txn": 3290.0,
+  "usual_merchants": [
+   "M0015",
+   "M0008",
+   "M0005",
+   "M0004",
+   "M0002"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0058",
+  "name": "Pooja Mehta",
+  "dob": "1976-03-19",
+  "pan": "SBUPM1502C",
+  "address": "192, Residency Road, Hyderabad 325583",
+  "phone": "+91-9503935666",
+  "employer": "HDFC",
+  "monthly_income": 30000,
+  "account_open_date": "2019-06-12",
+  "accounts": [
+   {
+    "acct_no": "SB6884333221",
+    "type": "savings",
+    "balance": 758000
+   }
+  ],
+  "known_devices": [
+   "D-C0058-1",
+   "D-C0058-2"
+  ],
+  "home_geo": {
+   "city": "Hyderabad",
+   "country": "IN",
+   "lat": 17.38,
+   "lon": 78.48
+  },
+  "avg_txn": 2890.0,
+  "usual_merchants": [
+   "M0010",
+   "M0013",
+   "M0028",
+   "M0020",
+   "M0014"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0059",
+  "name": "Ritu Das",
+  "dob": "1975-10-02",
+  "pan": "SGSPD8957W",
+  "address": "114, Lake View Lane, Mumbai 386436",
+  "phone": "+91-9331465414",
+  "employer": "Govt. Teacher",
+  "monthly_income": 40000,
+  "account_open_date": "2020-02-15",
+  "accounts": [
+   {
+    "acct_no": "SB2846465000",
+    "type": "savings",
+    "balance": 310000
+   }
+  ],
+  "known_devices": [
+   "D-C0059-1"
+  ],
+  "home_geo": {
+   "city": "Mumbai",
+   "country": "IN",
+   "lat": 19.07,
+   "lon": 72.88
+  },
+  "avg_txn": 3020.0,
+  "usual_merchants": [
+   "M0008",
+   "M0028",
+   "M0006",
+   "M0027",
+   "M0011"
+  ],
+  "kyc_status": "VERIFIED"
+ },
+ {
+  "customer_id": "C0060",
+  "name": "Arjun Reddy",
+  "dob": "1990-10-02",
+  "pan": "AGEPR3248J",
+  "address": "75, Station Road, Mumbai 225812",
+  "phone": "+91-9108299923",
+  "employer": "HDFC",
+  "monthly_income": 40000,
+  "account_open_date": "2026-10-05",
+  "accounts": [
+   {
+    "acct_no": "SB5849815676",
+    "type": "savings",
+    "balance": 565000
+   }
+  ],
+  "known_devices": [
+   "D-C0060-1"
+  ],
+  "home_geo": {
+   "city": "Mumbai",
+   "country": "IN",
+   "lat": 19.07,
+   "lon": 72.88
+  },
+  "avg_txn": 4000,
+  "usual_merchants": [
+   "M0019",
+   "M0024",
+   "M0011",
+   "M0007",
+   "M0025"
+  ],
+  "kyc_status": "VERIFIED"
+ }
+]

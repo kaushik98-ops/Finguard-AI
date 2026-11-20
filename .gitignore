@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+*.egg-info/
+
+# AWS CDK
+cdk/cdk.out/
+cdk.out/
+cdk/cdk.context.json
+node_modules/
+
+# Secrets / local config
+.env
+.env.*
+*.pem
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Archives
+*.zip

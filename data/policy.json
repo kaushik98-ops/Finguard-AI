@@ -1,0 +1,58 @@
+{
+ "blacklisted_pans": [
+  "BLKPX9999Z",
+  "FRDPQ1234K",
+  "SCMPR5678L"
+ ],
+ "required_fields": [
+  "full_name",
+  "dob",
+  "pan",
+  "address",
+  "monthly_income",
+  "loan_amount",
+  "id_expiry"
+ ],
+ "clauses": [
+  {
+   "id": "KYC-1",
+   "title": "PAN format",
+   "text": "PAN must be 10 characters: five letters, four digits, one letter. Reject unreadable or malformed PAN numbers and request a clear copy."
+  },
+  {
+   "id": "KYC-2",
+   "title": "Blacklist",
+   "text": "Applications presenting a PAN on the fraud blacklist must be escalated to the fraud team immediately; do not inform the applicant."
+  },
+  {
+   "id": "KYC-3",
+   "title": "ID validity",
+   "text": "Photo ID must be valid on the application date. Expired identity documents are not acceptable; request a current ID."
+  },
+  {
+   "id": "KYC-4",
+   "title": "Customer record match",
+   "text": "Name, date of birth and PAN on the application must match the existing customer record. A PAN registered to a different customer indicates possible forgery and must be escalated."
+  },
+  {
+   "id": "LND-1",
+   "title": "Income eligibility",
+   "text": "Minimum verified monthly income is INR 25,000 for any loan application."
+  },
+  {
+   "id": "LND-2",
+   "title": "Loan-to-income cap",
+   "text": "Requested loan amount must not exceed five times verified annual income."
+  },
+  {
+   "id": "LND-3",
+   "title": "Large loans",
+   "text": "Loans above INR 50,00,000 require senior underwriter review regardless of automated checks."
+  },
+  {
+   "id": "LND-4",
+   "title": "Income consistency",
+   "text": "Stated income more than 50 percent above the income on record must be supported by fresh salary proof before processing."
+  }
+ ]
+}

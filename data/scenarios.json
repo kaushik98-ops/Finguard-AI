@@ -1,0 +1,168 @@
+{
+ "fraud": {
+  "clear_ok": "T01049",
+  "clear_but_highvalue": "T01057",
+  "low_confidence": "T01058",
+  "hold_medium": "T01059",
+  "block_lowvalue": "T01088",
+  "block_highvalue": "T01092"
+ },
+ "kyc": {
+  "clean": "LD-001",
+  "pan_fixable": "LD-007",
+  "pan_unfixable": "LD-009",
+  "blacklisted": "LD-010",
+  "pan_other_customer": "LD-011",
+  "expired_id": "LD-012",
+  "missing_income": "LD-014",
+  "loan_exceeds_income": "LD-015",
+  "address_mismatch": "LD-017",
+  "name_typo": "LD-018",
+  "income_inflated": "LD-019",
+  "high_value_clean": "LD-020"
+ },
+ "recon": {
+  "timing": [
+   "UTR000100",
+   "UTR000101",
+   "UTR000102",
+   "UTR000103"
+  ],
+  "duplicate": [
+   "UTR000110",
+   "UTR000111"
+  ],
+  "rounding": [
+   "UTR000120",
+   "UTR000121",
+   "UTR000122"
+  ],
+  "ref_format": "UTR000130",
+  "break": [
+   "UTR000140",
+   "UTR000141"
+  ]
+ },
+ "kyc_docs": [
+  {
+   "doc_id": "LD-001",
+   "file": "docs/LD-001.pdf",
+   "customer_id": "C0003",
+   "scenario": "clean"
+  },
+  {
+   "doc_id": "LD-002",
+   "file": "docs/LD-002.pdf",
+   "customer_id": "C0004",
+   "scenario": "clean"
+  },
+  {
+   "doc_id": "LD-003",
+   "file": "docs/LD-003.pdf",
+   "customer_id": "C0005",
+   "scenario": "clean"
+  },
+  {
+   "doc_id": "LD-004",
+   "file": "docs/LD-004.pdf",
+   "customer_id": "C0006",
+   "scenario": "clean"
+  },
+  {
+   "doc_id": "LD-005",
+   "file": "docs/LD-005.pdf",
+   "customer_id": "C0007",
+   "scenario": "clean"
+  },
+  {
+   "doc_id": "LD-006",
+   "file": "docs/LD-006.pdf",
+   "customer_id": "C0008",
+   "scenario": "clean"
+  },
+  {
+   "doc_id": "LD-007",
+   "file": "docs/LD-007.pdf",
+   "customer_id": "C0009",
+   "scenario": "pan_fixable"
+  },
+  {
+   "doc_id": "LD-008",
+   "file": "docs/LD-008.pdf",
+   "customer_id": "C0010",
+   "scenario": "pan_fixable"
+  },
+  {
+   "doc_id": "LD-009",
+   "file": "docs/LD-009.pdf",
+   "customer_id": "C0011",
+   "scenario": "pan_unfixable"
+  },
+  {
+   "doc_id": "LD-010",
+   "file": "docs/LD-010.pdf",
+   "customer_id": "C0012",
+   "scenario": "blacklisted"
+  },
+  {
+   "doc_id": "LD-011",
+   "file": "docs/LD-011.pdf",
+   "customer_id": "C0013",
+   "scenario": "pan_other_customer"
+  },
+  {
+   "doc_id": "LD-012",
+   "file": "docs/LD-012.pdf",
+   "customer_id": "C0014",
+   "scenario": "expired_id"
+  },
+  {
+   "doc_id": "LD-013",
+   "file": "docs/LD-013.pdf",
+   "customer_id": "C0015",
+   "scenario": "expired_id"
+  },
+  {
+   "doc_id": "LD-014",
+   "file": "docs/LD-014.pdf",
+   "customer_id": "C0016",
+   "scenario": "missing_income"
+  },
+  {
+   "doc_id": "LD-015",
+   "file": "docs/LD-015.pdf",
+   "customer_id": "C0017",
+   "scenario": "loan_exceeds_income"
+  },
+  {
+   "doc_id": "LD-016",
+   "file": "docs/LD-016.pdf",
+   "customer_id": "C0018",
+   "scenario": "loan_exceeds_income"
+  },
+  {
+   "doc_id": "LD-017",
+   "file": "docs/LD-017.pdf",
+   "customer_id": "C0019",
+   "scenario": "address_mismatch"
+  },
+  {
+   "doc_id": "LD-018",
+   "file": "docs/LD-018.pdf",
+   "customer_id": "C0020",
+   "scenario": "name_typo"
+  },
+  {
+   "doc_id": "LD-019",
+   "file": "docs/LD-019.pdf",
+   "customer_id": "C0021",
+   "scenario": "income_inflated"
+  },
+  {
+   "doc_id": "LD-020",
+   "file": "docs/LD-020.pdf",
+   "customer_id": "C0001",
+   "scenario": "high_value_clean"
+  }
+ ]
+}

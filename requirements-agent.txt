@@ -1,0 +1,4 @@
+strands-agents==1.65.0
+mcp==2.3.0
+pydantic==2.14.3
+boto3==1.44.4
